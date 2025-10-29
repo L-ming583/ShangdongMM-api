@@ -1,2 +1,2 @@
-# LpProject-api
+# LpProject
 1
